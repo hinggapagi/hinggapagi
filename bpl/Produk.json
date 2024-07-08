@@ -6,7 +6,7 @@
             "name" : "Hingga Pagi Coffee Package",
             "price" : "Rp 225.000",
             "value" : 225000,
-            "desc" : "Kopi Hingga Pagi dalam paket box, harga lebih murah, kualitas tetap terjamin, fungsi instant dalam waktu 10 menit bisa On"
+            "desc" : "Kopi Hingga Pagi dalam paket box, harga lebih murah, kualitas tetap terjamin, instan On dalam waktu 10 menit"
         },
         {
             "id" : 2,
@@ -14,7 +14,7 @@
             "name" : "Hingga Pagi Coffee 2 Sachet",
             "price" : "Rp 100.000",
             "value" : 100000,
-            "desc" : "Kopi Hingga Pagi 2 kali minum, harga tetap murah, kualitas tetap terjamin, fungsi instant dalam waktu 10 menit bisa On"
+            "desc" : "Kopi Hingga Pagi 2 kali minum, harga tetap murah, kualitas tetap terjamin, instan on dalam waktu 10 menit"
         },
         {
             "id" : 3,
@@ -22,7 +22,7 @@
             "name" : "Hingga Pagi Coffee Sachet",
             "price" : "Rp 50.000",
             "value" : 50000,
-            "desc" : "Kopi Hingga Pagi untuk satu kali, kualitas tetap terjamin, fungsi instant dalam waktu 10 menit bisa On"
+            "desc" : "Kopi Hingga Pagi untuk satu kali, kualitas tetap terjamin, instan on dalam waktu 10 menit"
         }
     ]
 }
