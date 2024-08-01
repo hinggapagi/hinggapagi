@@ -6,23 +6,26 @@
             "name" : "Hingga Pagi Coffee Package",
             "price" : "Rp 225.000",
             "value" : 225000,
-            "desc" : "Kopi Hingga Pagi dalam paket box, harga lebih murah, kualitas tetap terjamin, instan On dalam waktu 10 menit"
+            "desc" : "Premium Box isi 5 sachet, Resep Rahasia dari Arab, Nikmati keajaiban ramuan rahasia turun temurun dari Timur Tengah! Kopi HinggaPagi tidak hanya memanjakan lidah dengan rasa eksotis, tetapi juga meningkatkan stamina dan performa kesehatan seksual Anda. Rasakan perbedaannya sejak tegukan pertama!",
+            "link" : "https://hinggapagiofficial.myr.id/product-catalog/hinggapagi"
         },
         {
             "id" : 2,
             "img" : "https://raw.githubusercontent.com/hinggapagi/hinggapagi/main/bpl/img/HPduaset.jpg",
             "name" : "Hingga Pagi Coffee 2 Sachet",
-            "price" : "Rp 100.000",
-            "value" : 100000,
-            "desc" : "Kopi Hingga Pagi 2 kali minum, harga tetap murah, kualitas tetap terjamin, instan on dalam waktu 10 menit"
+            "price" : "Rp 99.999",
+            "value" : 99999,
+            "desc" : "kemasan isi 2 sachet, Resep Rahasia dari Arab cocok untuk 2 kali pakai, Nikmati keajaiban ramuan rahasia turun temurun dari Timur Tengah! Kopi HinggaPagi tidak hanya memanjakan lidah dengan rasa eksotis, tetapi juga meningkatkan stamina dan performa kesehatan seksual Anda. Rasakan perbedaannya sejak tegukan pertama!",
+            "link" : "https://hinggapagiofficial.myr.id/product-catalog/hinggapagi-2-refill-sachet"
         },
         {
             "id" : 3,
             "img" : "https://raw.githubusercontent.com/hinggapagi/hinggapagi/main/bpl/img/HPsatuan.jpg",
             "name" : "Hingga Pagi Coffee Sachet",
-            "price" : "Rp 50.000",
-            "value" : 50000,
-            "desc" : "Kopi Hingga Pagi untuk satu kali, kualitas tetap terjamin, instan on dalam waktu 10 menit"
+            "price" : "Rp 53.999",
+            "value" : 53999,
+            "desc" : "Kemasan sachet satuan sekali coba Resep Rahasia dari Arab pasti ketagihan, Nikmati keajaiban ramuan rahasia turun temurun dari Timur Tengah! Kopi HinggaPagi tidak hanya memanjakan lidah dengan rasa eksotis, tetapi juga meningkatkan stamina dan performa kesehatan seksual Anda. Rasakan perbedaannya sejak tegukan pertama!",
+            "link" : "https://hinggapagiofficial.myr.id/product-catalog/hinggapagi-sachet"
         }
     ]
 }
