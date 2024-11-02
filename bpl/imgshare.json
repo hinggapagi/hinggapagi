@@ -2,27 +2,27 @@
     "result" : [
         {
             "id" : 1,
-            "img" : "https://raw.githubusercontent.com/hinggapagi/hinggapagi/main/bpl/img/banner1.jpg"
+            "img" : "https://ik.imagekit.io/hinggapagi/img/banner1.jpg?updatedAt=1730550332388"
         },
         {
             "id" : 2,
-            "img" : "https://raw.githubusercontent.com/hinggapagi/hinggapagi/main/bpl/img/banner2.jpg"
+            "img" : "https://ik.imagekit.io/hinggapagi/img/banner2.jpg?updatedAt=1730550332397"
         },
         {
             "id" : 3,
-            "img" : "https://raw.githubusercontent.com/hinggapagi/hinggapagi/main/bpl/img/BoxProduk.jpg"
+            "img" : "https://ik.imagekit.io/hinggapagi/img/BoxProduk.jpg?updatedAt=1730550332550"
         },
         {
             "id" : 4,
-            "img" : "https://raw.githubusercontent.com/hinggapagi/hinggapagi/main/bpl/img/HPpaket.jpg"
+            "img" : "https://ik.imagekit.io/hinggapagi/img/HPpaket.jpg?updatedAt=1730550332486"
         },
         {
             "id" : 5,
-            "img" : "https://raw.githubusercontent.com/hinggapagi/hinggapagi/main/bpl/img/HPduaset.jpg"
+            "img" : "https://ik.imagekit.io/hinggapagi/img/HPduaset.jpg?updatedAt=1730550332467"
         },
         {
             "id" : 6,
-            "img" : "https://raw.githubusercontent.com/hinggapagi/hinggapagi/main/bpl/img/HPsatuan.jpg"
+            "img" : "https://ik.imagekit.io/hinggapagi/img/HPsatuan.jpg?updatedAt=1730550332503"
         }
     ]
 }
