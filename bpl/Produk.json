@@ -2,7 +2,7 @@
     "result" : [
         {
             "id" : 3,
-            "img" : "https://raw.githubusercontent.com/hinggapagi/hinggapagi/main/bpl/img/HPpaket.jpg",
+            "img" : "https://ik.imagekit.io/hinggapagi/img/HPpaket.jpg?updatedAt=1730550332486",
             "name" : "Hingga Pagi Coffee Package",
             "price" : "Rp 225.000",
             "value" : 225000,
@@ -11,7 +11,7 @@
         },
         {
             "id" : 2,
-            "img" : "https://raw.githubusercontent.com/hinggapagi/hinggapagi/main/bpl/img/HPduaset.jpg",
+            "img" : "https://ik.imagekit.io/hinggapagi/img/HPduaset.jpg?updatedAt=1730550332467",
             "name" : "Hingga Pagi Coffee 2 Sachet",
             "price" : "Rp 99.999",
             "value" : 99999,
@@ -20,7 +20,7 @@
         },
         {
             "id" : 1,
-            "img" : "https://raw.githubusercontent.com/hinggapagi/hinggapagi/main/bpl/img/HPsatuan.jpg",
+            "img" : "https://ik.imagekit.io/hinggapagi/img/HPsatuan.jpg?updatedAt=1730550332503",
             "name" : "Hingga Pagi Coffee Sachet",
             "price" : "Rp 53.999",
             "value" : 53999,
