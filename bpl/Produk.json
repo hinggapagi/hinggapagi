@@ -7,7 +7,7 @@
             "price" : "Rp 225.000",
             "value" : 225000,
             "desc" : "Premium Box isi 5 sachet, Resep Rahasia dari Arab, Nikmati keajaiban ramuan rahasia turun temurun dari Timur Tengah! Kopi HinggaPagi tidak hanya memanjakan lidah dengan rasa eksotis, tetapi juga meningkatkan stamina dan performa kesehatan seksual Anda. Rasakan perbedaannya sejak tegukan pertama!",
-            "link" : "https://hinggapagi.com/checkout/3"
+            "link" : "https://hinggapagi.com/cart/3"
         },
         {
             "id" : 2,
@@ -16,7 +16,7 @@
             "price" : "Rp 99.000",
             "value" : 99000,
             "desc" : "kemasan isi 2 sachet, Resep Rahasia dari Arab cocok untuk 2 kali pakai, Nikmati keajaiban ramuan rahasia turun temurun dari Timur Tengah! Kopi HinggaPagi tidak hanya memanjakan lidah dengan rasa eksotis, tetapi juga meningkatkan stamina dan performa kesehatan seksual Anda. Rasakan perbedaannya sejak tegukan pertama!",
-            "link" : "https://hinggapagi.com/checkout/2"
+            "link" : "https://hinggapagi.com/cart/2"
         },
         {
             "id" : 1,
@@ -25,7 +25,7 @@
             "price" : "Rp 54.000",
             "value" : 54000,
             "desc" : "Kemasan sachet satuan sekali coba Resep Rahasia dari Arab pasti ketagihan, Nikmati keajaiban ramuan rahasia turun temurun dari Timur Tengah! Kopi HinggaPagi tidak hanya memanjakan lidah dengan rasa eksotis, tetapi juga meningkatkan stamina dan performa kesehatan seksual Anda. Rasakan perbedaannya sejak tegukan pertama!",
-            "link" : "https://hinggapagi.com/checkout/1"
+            "link" : "https://hinggapagi.com/cart/1"
         }
     ]
 }
